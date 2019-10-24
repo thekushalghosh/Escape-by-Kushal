@@ -1,3 +1,7 @@
+'''
+    Author : thekushalghosh
+    Team   : CodeDiggers
+'''
 import pygame
 import time
 import random
